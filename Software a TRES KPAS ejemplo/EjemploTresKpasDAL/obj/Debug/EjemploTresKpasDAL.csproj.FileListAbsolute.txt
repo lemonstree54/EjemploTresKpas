@@ -1,0 +1,9 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasDAL\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasDAL\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasDAL\obj\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasDAL\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasDAL\obj\Debug\EjemploTresKpasDAL.csprojAssemblyReference.cache

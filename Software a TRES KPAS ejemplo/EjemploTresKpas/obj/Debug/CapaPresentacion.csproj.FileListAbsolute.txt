@@ -1,0 +1,15 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\EjemploTresKpas.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\EjemploTresKpas.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\EjemploTresKpas.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\EjemploTresKpas.frmIngresarAlumnos.resources
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\EjemploTresKpas.frmListadoAlumnos.resources
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\EjemploTresKpas.Properties.Resources.resources
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\EjemploTresKpas.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpas\obj\Debug\EjemploTresKpas.pdb

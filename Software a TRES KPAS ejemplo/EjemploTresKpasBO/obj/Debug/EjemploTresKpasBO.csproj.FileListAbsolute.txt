@@ -1,0 +1,5 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasBO\bin\Debug\EjemploTresKpasBO.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasBO\bin\Debug\EjemploTresKpasBO.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasBO\obj\Debug\EjemploTresKpasBO.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasBO\obj\Debug\EjemploTresKpasBO.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\EjemploTresKpasBO\obj\Debug\EjemploTresKpasBO.csprojAssemblyReference.cache

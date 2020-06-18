@@ -1,0 +1,8 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\Programacion Tres Kpas\Software a TRES KPAS ejemplo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
